@@ -1,1 +1,2 @@
-# main .py file where all tasks will be worked through
+import cv2 as cv
+print( cv.__version__ )
